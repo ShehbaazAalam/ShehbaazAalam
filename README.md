@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shehbaazaalam&label=Profile%20views&color=0e75b6&style=flat" alt="shehbaazaalam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehbaazaalam" alt="shehbaazaalam" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Development Skills**
 
 - 📫 How to reach me **shehbaazaalam00786@gmail.com**
